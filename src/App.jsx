@@ -1,6 +1,7 @@
 import BottomBar from "./components/BottomBar";
 import Menu from "./components/Menu";
 import Nav from "./components/Nav";
+// import TestComponent from "./components/TestComponent";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
         <Nav />
         <Menu/>
         <BottomBar/>
+        {/* <TestComponent/> */}
       </div>
     </div>
   );
