@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/soupie-react/static/css/main.72bed484.chunk.css",
+    "main.js": "/soupie-react/static/js/main.678b8121.chunk.js",
+    "main.js.map": "/soupie-react/static/js/main.678b8121.chunk.js.map",
+    "runtime-main.js": "/soupie-react/static/js/runtime-main.d9d1351a.js",
+    "runtime-main.js.map": "/soupie-react/static/js/runtime-main.d9d1351a.js.map",
+    "static/js/2.effdc88c.chunk.js": "/soupie-react/static/js/2.effdc88c.chunk.js",
+    "static/js/2.effdc88c.chunk.js.map": "/soupie-react/static/js/2.effdc88c.chunk.js.map",
+    "static/js/3.30fbbec8.chunk.js": "/soupie-react/static/js/3.30fbbec8.chunk.js",
+    "static/js/3.30fbbec8.chunk.js.map": "/soupie-react/static/js/3.30fbbec8.chunk.js.map",
+    "index.html": "/soupie-react/index.html",
+    "static/css/main.72bed484.chunk.css.map": "/soupie-react/static/css/main.72bed484.chunk.css.map",
+    "static/js/2.effdc88c.chunk.js.LICENSE.txt": "/soupie-react/static/js/2.effdc88c.chunk.js.LICENSE.txt",
+    "static/media/cart.24e7c18c.svg": "/soupie-react/static/media/cart.24e7c18c.svg",
+    "static/media/cup.88f7ff5e.svg": "/soupie-react/static/media/cup.88f7ff5e.svg",
+    "static/media/homeIcon.6c9069dc.svg": "/soupie-react/static/media/homeIcon.6c9069dc.svg",
+    "static/media/itemImg.29458504.png": "/soupie-react/static/media/itemImg.29458504.png",
+    "static/media/logo.cc3e48a5.svg": "/soupie-react/static/media/logo.cc3e48a5.svg",
+    "static/media/user.8acd9329.svg": "/soupie-react/static/media/user.8acd9329.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9d1351a.js",
+    "static/js/2.effdc88c.chunk.js",
+    "static/css/main.72bed484.chunk.css",
+    "static/js/main.678b8121.chunk.js"
+  ]
+}
